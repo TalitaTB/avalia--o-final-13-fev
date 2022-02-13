@@ -1,0 +1,85 @@
+
+.navbar{
+   background-color: #ffff;
+}
+
+.form-control {
+   border-color: #a19fa1;
+   width: 300px;
+}
+
+.btn {
+   background-color: #F04F79;
+   margin-left: 15px;
+   margin-right: 15px;
+}
+
+.navbar-brand {
+   margin-right: 400px;
+}
+
+.navbar-dark{
+   background-color:#A32647;
+}
+
+.nav-item {
+   color: #ffff;
+   margin-left: 15px;
+   margin-right: 15px;
+}
+
+.card {
+   color: #F04F79;
+}
+
+.quadrado {
+   width: 20px;
+   height: 20px;
+}
+
+.retangulo {
+   background-color: #A32647;
+   width: 2000px;
+   height: 360px;
+}
+
+.img {
+   margin-top: 25px;
+   border-radius: 10px;
+}
+
+.text {
+   margin-right: 40px;
+   margin-left: 0px;
+  
+}
+
+#galery1 {
+   background: url("../img/balloons.jpg");
+   width: 1350px;
+   height: 300px;
+   position: absolute;
+}
+
+.description {
+   align-items: center;
+   margin-top: 35px ;
+}
+
+.carousel-inner {
+   margin-top: 300px;
+}
+
+#galery2 {
+   background: url("../img/balloons.jpg");
+   width: 1350px;
+   height: 200px;
+   position: absolute;
+}
+
+.navbar2 {
+   margin-top: 200px;
+   height: 60px;
+}
+
+
